@@ -1,18 +1,22 @@
 body {
-   /* font-style: italic;
-   font-variant: small-caps;
+   /* font-style:san-serif; */
+   /* font-variant: small-caps; */
    font-weight: 700;
    font-size: 16px;
    line-height: 1;
-   font-family: 'Darker Grotesque', sans-serif; */
+   font-family: 'Darker Grotesque', sans-serif;
+   background-color: #b54141;
+   margin: 3em;
+   padding-bottom: 1em;
+   padding-top: 1em
 
-   font: small-caps 600 10em / 1 'Arial', sans-serif;
+   headimage:
+   /* .title
+   font: small-caps 600 10em / 1 'Arial', sans-serif; */
 
-.title
+/* .title */
    /* color: transparent; */
-   color: black
-
-   background
+   /* color: black
 
    -webkit-background-clip: text;
 
@@ -20,4 +24,4 @@ body {
 
    background-attachment: fixed;
 
-}
+} */
