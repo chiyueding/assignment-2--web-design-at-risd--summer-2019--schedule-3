@@ -1,6 +1,4 @@
 body {
-   /* font-style:san-serif; */
-   /* font-variant: small-caps; */
    font-weight: 700;
    font-size: 16px;
    line-height: 1;
@@ -10,7 +8,34 @@ body {
    padding-bottom: 1em;
    padding-top: 1em
 
-   headimage:
+   h1 {
+   margin: 40px;
+   border: 2px;
+   font-size: 30px;
+   }
+
+   h1 {
+
+   font-weight: 700;
+
+   font-size: 240px;
+
+   font-family: Helvetica, sans-serif;
+
+   color: transparent;
+
+   background: src="img/0A9CA30B-5100-4EBA-A600-3D9D8BDAE779-4002-000001F91D66070E.jpg";
+
+   -webkit-background-clip: text;
+
+   background-clip: text;
+
+   background-attachment: fixed;
+
+}
+
+
+
    /* .title
    font: small-caps 600 10em / 1 'Arial', sans-serif; */
 
