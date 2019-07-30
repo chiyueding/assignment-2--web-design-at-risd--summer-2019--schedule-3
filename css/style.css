@@ -6,47 +6,7 @@ body {
    background-color: #b54141;
    margin: 3em;
    padding-bottom: 1em;
-   padding-top: 1em
-
-   h1 {
-   margin: 40px;
-   border: 2px;
-   font-size: 30px;
+   padding-top: 1em;
+   margin-right: 1em;
+   margin-left: 1em
    }
-
-   h1 {
-
-   font-weight: 700;
-
-   font-size: 240px;
-
-   font-family: Helvetica, sans-serif;
-
-   color: transparent;
-
-   background: src="img/0A9CA30B-5100-4EBA-A600-3D9D8BDAE779-4002-000001F91D66070E.jpg";
-
-   -webkit-background-clip: text;
-
-   background-clip: text;
-
-   background-attachment: fixed;
-
-}
-
-
-
-   /* .title
-   font: small-caps 600 10em / 1 'Arial', sans-serif; */
-
-/* .title */
-   /* color: transparent; */
-   /* color: black
-
-   -webkit-background-clip: text;
-
-   background-clip: text;
-
-   background-attachment: fixed;
-
-} */
